@@ -1,4 +1,4 @@
-# CppCon-2022-C-20-Dates-in-Finance
+# CppCon 2022:  C++20-Dates in Finance
 
 This repository contains files related to the CppCon 2022 talk _Using_ `std::chrono` _Calendar Dates for Finance_, presented by Daniel Hanson.
 
